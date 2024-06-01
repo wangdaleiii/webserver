@@ -1,0 +1,1943 @@
+2024-05-14 19:53:04.036410 [info]: deal with the client(127.0.0.1)
+2024-05-14 19:53:04.036623 [info]: adjust timer once
+2024-05-14 19:53:04.036760 [info]: GET / HTTP/1.1
+2024-05-14 19:53:04.036871 [info]: Host: localhost:9006
+2024-05-14 19:53:04.036928 [info]: Connection: keep-alive
+2024-05-14 19:53:04.036978 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 19:53:04.037020 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 19:53:04.037062 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 19:53:04.037101 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 19:53:04.037138 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 19:53:04.037176 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 19:53:04.037213 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 19:53:04.037249 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 19:53:04.037286 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 19:53:04.037338 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 19:53:04.037362 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 19:53:04.037386 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 19:53:04.037409 [info]: Sec-Fetch-Site: none
+2024-05-14 19:53:04.037431 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 19:53:04.037457 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 19:53:04.037482 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 19:53:04.037505 [info]: Sec-Fetch-User: ?1
+2024-05-14 19:53:04.037527 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 19:53:04.037551 [info]: Sec-Fetch-Dest: document
+2024-05-14 19:53:04.037575 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 19:53:04.037598 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 19:53:04.037621 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 19:53:04.037657 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 19:53:04.037683 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 19:53:04.037707 [info]: 
+2024-05-14 19:53:04.037787 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 19:53:04.037830 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2024-05-14 19:53:04.037854 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2024-05-14 19:53:04.037879 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2024-05-14 19:53:04.038193 [info]: send data to the client(127.0.0.1)
+2024-05-14 19:53:04.038244 [info]: adjust timer once
+2024-05-14 19:53:04.736523 [info]: timer tick
+2024-05-14 19:53:05.729211 [info]: deal with the client(127.0.0.1)
+2024-05-14 19:53:05.729346 [info]: adjust timer once
+2024-05-14 19:53:05.729492 [info]: POST /0 HTTP/1.1
+2024-05-14 19:53:05.729616 [info]: Host: localhost:9006
+2024-05-14 19:53:05.729663 [info]: Connection: keep-alive
+2024-05-14 19:53:05.729700 [info]: Content-Length: 0
+2024-05-14 19:53:05.729737 [info]: Cache-Control: max-age=0
+2024-05-14 19:53:05.729776 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 19:53:05.729813 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 19:53:05.729847 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 19:53:05.729882 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 19:53:05.729916 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 19:53:05.729950 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 19:53:05.729983 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 19:53:05.730050 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 19:53:05.730090 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 19:53:05.730125 [info]: Origin: http://localhost:9006
+2024-05-14 19:53:05.730158 [info]: oop!unknow header: Origin: http://localhost:9006
+2024-05-14 19:53:05.730192 [info]: Content-Type: application/x-www-form-urlencoded
+2024-05-14 19:53:05.730225 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-05-14 19:53:05.730262 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 19:53:05.730295 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 19:53:05.730332 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 19:53:05.730371 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 19:53:05.730423 [info]: Sec-Fetch-Site: same-origin
+2024-05-14 19:53:05.730463 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-05-14 19:53:05.730498 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 19:53:05.730531 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 19:53:05.730565 [info]: Sec-Fetch-User: ?1
+2024-05-14 19:53:05.730597 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 19:53:05.730630 [info]: Sec-Fetch-Dest: document
+2024-05-14 19:53:05.730663 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 19:53:05.730703 [info]: Referer: http://localhost:9006/
+2024-05-14 19:53:05.730738 [info]: oop!unknow header: Referer: http://localhost:9006/
+2024-05-14 19:53:05.730772 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 19:53:05.730805 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 19:53:05.730839 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 19:53:05.730872 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 19:53:05.730905 [info]: 
+2024-05-14 19:53:05.731020 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 19:53:05.731079 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+
+2024-05-14 19:53:05.731115 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:keep-alive
+
+2024-05-14 19:53:05.731149 [info]: request:HTTP/1.1 200 OK
+Content-Length:724
+Connection:keep-alive
+
+
+2024-05-14 19:53:05.731623 [info]: send data to the client(127.0.0.1)
+2024-05-14 19:53:05.731711 [info]: adjust timer once
+2024-05-14 19:53:09.736685 [info]: timer tick
+2024-05-14 19:53:14.736813 [info]: timer tick
+2024-05-14 19:53:19.736999 [info]: timer tick
+2024-05-14 19:53:21.004232 [info]: deal with the client(127.0.0.1)
+2024-05-14 19:53:21.004527 [info]: adjust timer once
+2024-05-14 19:53:21.004564 [info]: POST /3CGISQL.cgi HTTP/1.1
+2024-05-14 19:53:21.004595 [info]: Host: localhost:9006
+2024-05-14 19:53:21.004611 [info]: Connection: keep-alive
+2024-05-14 19:53:21.004626 [info]: Content-Length: 17
+2024-05-14 19:53:21.004638 [info]: Cache-Control: max-age=0
+2024-05-14 19:53:21.004649 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 19:53:21.004661 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 19:53:21.004673 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 19:53:21.004685 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 19:53:21.004696 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 19:53:21.004718 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 19:53:21.004731 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 19:53:21.004744 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 19:53:21.004755 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 19:53:21.004773 [info]: Origin: http://localhost:9006
+2024-05-14 19:53:21.004794 [info]: oop!unknow header: Origin: http://localhost:9006
+2024-05-14 19:53:21.004806 [info]: Content-Type: application/x-www-form-urlencoded
+2024-05-14 19:53:21.004817 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-05-14 19:53:21.004828 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 19:53:21.004839 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 19:53:21.004853 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 19:53:21.004864 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 19:53:21.004880 [info]: Sec-Fetch-Site: same-origin
+2024-05-14 19:53:21.004892 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-05-14 19:53:21.004904 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 19:53:21.004915 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 19:53:21.004925 [info]: Sec-Fetch-User: ?1
+2024-05-14 19:53:21.004936 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 19:53:21.004949 [info]: Sec-Fetch-Dest: document
+2024-05-14 19:53:21.004959 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 19:53:21.004970 [info]: Referer: http://localhost:9006/0
+2024-05-14 19:53:21.004981 [info]: oop!unknow header: Referer: http://localhost:9006/0
+2024-05-14 19:53:21.004994 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 19:53:21.005004 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 19:53:21.005015 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 19:53:21.005026 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 19:53:21.005038 [info]: 
+2024-05-14 19:53:21.005050 [info]: user=5&password=5
+2024-05-14 19:53:21.005102 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 19:53:21.005123 [info]: request:HTTP/1.1 200 OK
+Content-Length:786
+
+2024-05-14 19:53:21.005135 [info]: request:HTTP/1.1 200 OK
+Content-Length:786
+Connection:keep-alive
+
+2024-05-14 19:53:21.005148 [info]: request:HTTP/1.1 200 OK
+Content-Length:786
+Connection:keep-alive
+
+
+2024-05-14 19:53:21.005390 [info]: send data to the client(127.0.0.1)
+2024-05-14 19:53:21.005418 [info]: adjust timer once
+2024-05-14 19:53:24.737345 [info]: timer tick
+2024-05-14 19:53:29.737495 [info]: timer tick
+2024-05-14 19:53:34.737651 [info]: timer tick
+2024-05-14 19:53:39.737938 [info]: timer tick
+2024-05-14 19:53:44.738079 [info]: timer tick
+2024-05-14 19:53:49.738203 [info]: timer tick
+2024-05-14 19:53:54.738317 [info]: timer tick
+2024-05-14 19:53:59.738476 [info]: timer tick
+2024-05-14 19:54:04.738624 [info]: timer tick
+2024-05-14 19:54:09.738753 [info]: timer tick
+2024-05-14 19:54:14.738875 [info]: timer tick
+2024-05-14 19:54:19.738981 [info]: timer tick
+2024-05-14 19:54:24.739142 [info]: timer tick
+2024-05-14 19:54:29.739292 [info]: timer tick
+2024-05-14 19:54:34.739559 [info]: timer tick
+2024-05-14 19:54:39.739681 [info]: timer tick
+2024-05-14 19:54:44.739844 [info]: timer tick
+2024-05-14 19:54:49.740009 [info]: timer tick
+2024-05-14 19:54:54.740223 [info]: timer tick
+2024-05-14 19:54:59.740363 [info]: timer tick
+2024-05-14 19:55:04.740651 [info]: timer tick
+2024-05-14 19:55:09.740975 [info]: timer tick
+2024-05-14 19:55:14.741452 [info]: timer tick
+2024-05-14 19:55:19.741613 [info]: timer tick
+2024-05-14 19:55:24.741935 [info]: timer tick
+2024-05-14 19:55:29.742094 [info]: timer tick
+2024-05-14 19:55:34.742398 [info]: timer tick
+2024-05-14 19:55:39.742586 [info]: timer tick
+2024-05-14 19:55:44.742895 [info]: timer tick
+2024-05-14 19:55:49.743075 [info]: timer tick
+2024-05-14 19:55:54.743177 [info]: timer tick
+2024-05-14 19:55:59.743335 [info]: timer tick
+2024-05-14 19:56:04.743672 [info]: timer tick
+2024-05-14 19:56:09.743787 [info]: timer tick
+2024-05-14 19:56:14.744034 [info]: timer tick
+2024-05-14 19:56:19.744310 [info]: timer tick
+2024-05-14 19:56:24.744431 [info]: timer tick
+2024-05-14 19:56:29.744608 [info]: timer tick
+2024-05-14 19:56:34.744881 [info]: timer tick
+2024-05-14 19:56:39.745046 [info]: timer tick
+2024-05-14 19:56:44.745299 [info]: timer tick
+2024-05-14 19:56:49.745371 [info]: timer tick
+2024-05-14 19:56:54.745662 [info]: timer tick
+2024-05-14 19:56:59.746013 [info]: timer tick
+2024-05-14 19:57:04.746181 [info]: timer tick
+2024-05-14 19:57:09.746318 [info]: timer tick
+2024-05-14 19:57:14.746592 [info]: timer tick
+2024-05-14 19:57:19.746960 [info]: timer tick
+2024-05-14 19:57:24.747128 [info]: timer tick
+2024-05-14 19:57:29.747365 [info]: timer tick
+2024-05-14 19:57:34.747668 [info]: timer tick
+2024-05-14 19:57:39.747803 [info]: timer tick
+2024-05-14 19:57:44.747943 [info]: timer tick
+2024-05-14 19:57:49.748092 [info]: timer tick
+2024-05-14 19:57:54.748252 [info]: timer tick
+2024-05-14 19:57:59.748416 [info]: timer tick
+2024-05-14 19:58:04.748522 [info]: timer tick
+2024-05-14 19:58:09.748850 [info]: timer tick
+2024-05-14 19:58:14.749001 [info]: timer tick
+2024-05-14 19:58:19.749153 [info]: timer tick
+2024-05-14 19:58:24.749278 [info]: timer tick
+2024-05-14 19:58:29.749361 [info]: timer tick
+2024-05-14 19:58:34.749617 [info]: timer tick
+2024-05-14 19:58:39.749858 [info]: timer tick
+2024-05-14 19:58:44.750203 [info]: timer tick
+2024-05-14 19:58:49.750308 [info]: timer tick
+2024-05-14 19:58:54.750643 [info]: timer tick
+2024-05-14 19:58:59.750990 [info]: timer tick
+2024-05-14 19:59:04.751303 [info]: timer tick
+2024-05-14 19:59:09.751562 [info]: timer tick
+2024-05-14 19:59:14.751667 [info]: timer tick
+2024-05-14 19:59:19.751806 [info]: timer tick
+2024-05-14 19:59:24.751965 [info]: timer tick
+2024-05-14 19:59:29.752108 [info]: timer tick
+2024-05-14 19:59:34.752400 [info]: timer tick
+2024-05-14 19:59:39.752565 [info]: timer tick
+2024-05-14 19:59:44.752731 [info]: timer tick
+2024-05-14 19:59:49.753007 [info]: timer tick
+2024-05-14 19:59:54.753168 [info]: timer tick
+2024-05-14 19:59:59.753313 [info]: timer tick
+2024-05-14 20:00:04.753626 [info]: timer tick
+2024-05-14 20:00:09.753955 [info]: timer tick
+2024-05-14 20:00:14.754070 [info]: timer tick
+2024-05-14 20:00:19.754240 [info]: timer tick
+2024-05-14 20:00:24.754552 [info]: timer tick
+2024-05-14 20:00:29.754795 [info]: timer tick
+2024-05-14 20:00:34.754961 [info]: timer tick
+2024-05-14 20:00:39.755315 [info]: timer tick
+2024-05-14 20:00:44.755661 [info]: timer tick
+2024-05-14 20:00:49.755793 [info]: timer tick
+2024-05-14 20:00:54.755936 [info]: timer tick
+2024-05-14 20:00:59.756108 [info]: timer tick
+2024-05-14 20:01:04.756220 [info]: timer tick
+2024-05-14 20:01:09.756399 [info]: timer tick
+2024-05-14 20:01:14.756564 [info]: timer tick
+2024-05-14 20:01:19.756747 [info]: timer tick
+2024-05-14 20:01:24.757065 [info]: timer tick
+2024-05-14 20:01:29.757202 [info]: timer tick
+2024-05-14 20:01:34.757371 [info]: timer tick
+2024-05-14 20:01:39.757423 [info]: timer tick
+2024-05-14 20:01:44.757709 [info]: timer tick
+2024-05-14 20:01:49.757954 [info]: timer tick
+2024-05-14 20:01:54.758300 [info]: timer tick
+2024-05-14 20:01:59.758499 [info]: timer tick
+2024-05-14 20:02:04.758558 [info]: timer tick
+2024-05-14 20:02:09.758711 [info]: timer tick
+2024-05-14 20:02:14.758817 [info]: timer tick
+2024-05-14 20:02:19.758922 [info]: timer tick
+2024-05-14 20:02:24.759313 [info]: timer tick
+2024-05-14 20:02:29.759643 [info]: timer tick
+2024-05-14 20:02:34.759752 [info]: timer tick
+2024-05-14 20:02:39.759877 [info]: timer tick
+2024-05-14 20:02:44.760015 [info]: timer tick
+2024-05-14 20:02:49.760174 [info]: timer tick
+2024-05-14 20:02:54.760269 [info]: timer tick
+2024-05-14 20:02:59.760392 [info]: timer tick
+2024-05-14 20:03:04.760490 [info]: timer tick
+2024-05-14 20:03:09.760620 [info]: timer tick
+2024-05-14 20:03:14.760647 [info]: timer tick
+2024-05-14 20:03:19.760922 [info]: timer tick
+2024-05-14 20:03:24.761095 [info]: timer tick
+2024-05-14 20:03:29.761265 [info]: timer tick
+2024-05-14 20:03:34.761445 [info]: timer tick
+2024-05-14 20:03:39.761731 [info]: timer tick
+2024-05-14 20:03:44.761787 [info]: timer tick
+2024-05-14 20:03:49.761936 [info]: timer tick
+2024-05-14 20:03:54.762294 [info]: timer tick
+2024-05-14 20:03:59.762454 [info]: timer tick
+2024-05-14 20:04:04.762554 [info]: timer tick
+2024-05-14 20:04:09.762659 [info]: timer tick
+2024-05-14 20:04:14.762720 [info]: timer tick
+2024-05-14 20:04:19.762983 [info]: timer tick
+2024-05-14 20:04:24.763315 [info]: timer tick
+2024-05-14 20:04:29.763489 [info]: timer tick
+2024-05-14 20:04:34.763659 [info]: timer tick
+2024-05-14 20:04:39.763805 [info]: timer tick
+2024-05-14 20:04:44.763962 [info]: timer tick
+2024-05-14 20:04:49.764119 [info]: timer tick
+2024-05-14 20:04:54.764407 [info]: timer tick
+2024-05-14 20:04:59.764577 [info]: timer tick
+2024-05-14 20:05:04.764736 [info]: timer tick
+2024-05-14 20:05:09.765046 [info]: timer tick
+2024-05-14 20:05:14.765355 [info]: timer tick
+2024-05-14 20:05:19.765660 [info]: timer tick
+2024-05-14 20:05:24.765819 [info]: timer tick
+2024-05-14 20:05:29.766073 [info]: timer tick
+2024-05-14 20:05:34.766410 [info]: timer tick
+2024-05-14 20:05:39.766571 [info]: timer tick
+2024-05-14 20:05:44.766685 [info]: timer tick
+2024-05-14 20:05:49.766849 [info]: timer tick
+2024-05-14 20:05:54.767160 [info]: timer tick
+2024-05-14 20:05:59.767331 [info]: timer tick
+2024-05-14 20:06:04.767501 [info]: timer tick
+2024-05-14 20:06:09.767655 [info]: timer tick
+2024-05-14 20:06:14.767751 [info]: timer tick
+2024-05-14 20:06:19.767918 [info]: timer tick
+2024-05-14 20:06:24.768055 [info]: timer tick
+2024-05-14 20:06:29.768343 [info]: timer tick
+2024-05-14 20:06:34.768509 [info]: timer tick
+2024-05-14 20:06:39.768695 [info]: timer tick
+2024-05-14 20:06:44.768970 [info]: timer tick
+2024-05-14 20:06:49.769287 [info]: timer tick
+2024-05-14 20:06:54.769454 [info]: timer tick
+2024-05-14 20:06:59.769795 [info]: timer tick
+2024-05-14 20:07:04.770048 [info]: timer tick
+2024-05-14 20:07:09.770362 [info]: timer tick
+2024-05-14 20:07:14.770644 [info]: timer tick
+2024-05-14 20:07:19.770999 [info]: timer tick
+2024-05-14 20:07:24.771381 [info]: timer tick
+2024-05-14 20:07:29.771672 [info]: timer tick
+2024-05-14 20:07:34.771803 [info]: timer tick
+2024-05-14 20:07:39.771941 [info]: timer tick
+2024-05-14 20:07:44.772105 [info]: timer tick
+2024-05-14 20:07:49.772273 [info]: timer tick
+2024-05-14 20:07:54.772383 [info]: timer tick
+2024-05-14 20:07:59.772540 [info]: timer tick
+2024-05-14 20:08:04.772662 [info]: timer tick
+2024-05-14 20:08:09.772835 [info]: timer tick
+2024-05-14 20:08:14.772982 [info]: timer tick
+2024-05-14 20:08:19.773137 [info]: timer tick
+2024-05-14 20:08:24.773277 [info]: timer tick
+2024-05-14 20:08:29.773390 [info]: timer tick
+2024-05-14 20:08:34.773663 [info]: timer tick
+2024-05-14 20:08:39.773982 [info]: timer tick
+2024-05-14 20:08:44.774085 [info]: timer tick
+2024-05-14 20:08:49.774247 [info]: timer tick
+2024-05-14 20:08:54.774420 [info]: timer tick
+2024-05-14 20:08:59.774451 [info]: timer tick
+2024-05-14 20:09:04.774680 [info]: timer tick
+2024-05-14 20:09:09.774807 [info]: timer tick
+2024-05-14 20:09:14.774974 [info]: timer tick
+2024-05-14 20:09:19.775321 [info]: timer tick
+2024-05-14 20:09:24.775722 [info]: timer tick
+2024-05-14 20:09:29.775854 [info]: timer tick
+2024-05-14 20:09:34.775999 [info]: timer tick
+2024-05-14 20:09:39.776196 [info]: timer tick
+2024-05-14 20:09:44.776325 [info]: timer tick
+2024-05-14 20:09:49.776494 [info]: timer tick
+2024-05-14 20:09:54.776653 [info]: timer tick
+2024-05-14 20:09:59.776848 [info]: timer tick
+2024-05-14 20:10:04.776976 [info]: timer tick
+2024-05-14 20:10:09.777135 [info]: timer tick
+2024-05-14 20:10:14.777468 [info]: timer tick
+2024-05-14 20:10:19.777673 [info]: timer tick
+2024-05-14 20:10:24.777814 [info]: timer tick
+2024-05-14 20:10:29.778006 [info]: timer tick
+2024-05-14 20:10:34.778172 [info]: timer tick
+2024-05-14 20:10:39.778360 [info]: timer tick
+2024-05-14 20:10:44.778627 [info]: timer tick
+2024-05-14 20:10:49.778772 [info]: timer tick
+2024-05-14 20:10:54.779032 [info]: timer tick
+2024-05-14 20:10:59.779438 [info]: timer tick
+2024-05-14 20:11:04.779549 [info]: timer tick
+2024-05-14 20:11:09.779662 [info]: timer tick
+2024-05-14 20:11:14.779825 [info]: timer tick
+2024-05-14 20:11:19.779985 [info]: timer tick
+2024-05-14 20:11:24.780160 [info]: timer tick
+2024-05-14 20:11:29.780318 [info]: timer tick
+2024-05-14 20:11:34.780475 [info]: timer tick
+2024-05-14 20:11:39.780619 [info]: timer tick
+2024-05-14 20:11:44.780756 [info]: timer tick
+2024-05-14 20:11:49.780855 [info]: timer tick
+2024-05-14 20:11:54.780974 [info]: timer tick
+2024-05-14 20:11:59.781131 [info]: timer tick
+2024-05-14 20:12:04.781249 [info]: timer tick
+2024-05-14 20:12:09.781544 [info]: timer tick
+2024-05-14 20:12:14.781648 [info]: timer tick
+2024-05-14 20:12:19.781802 [info]: timer tick
+2024-05-14 20:12:24.781972 [info]: timer tick
+2024-05-14 20:12:29.782135 [info]: timer tick
+2024-05-14 20:12:34.782276 [info]: timer tick
+2024-05-14 20:12:39.782434 [info]: timer tick
+2024-05-14 20:12:44.782545 [info]: timer tick
+2024-05-14 20:12:49.782726 [info]: timer tick
+2024-05-14 20:12:54.783020 [info]: timer tick
+2024-05-14 20:12:59.783140 [info]: timer tick
+2024-05-14 20:13:04.783261 [info]: timer tick
+2024-05-14 20:13:09.783334 [info]: timer tick
+2024-05-14 20:13:14.783461 [info]: timer tick
+2024-05-14 20:13:19.783584 [info]: timer tick
+2024-05-14 20:13:24.783685 [info]: timer tick
+2024-05-14 20:13:29.783846 [info]: timer tick
+2024-05-14 20:13:34.784011 [info]: timer tick
+2024-05-14 20:13:39.784177 [info]: timer tick
+2024-05-14 20:13:44.784333 [info]: timer tick
+2024-05-14 20:13:49.784495 [info]: timer tick
+2024-05-14 20:13:54.784656 [info]: timer tick
+2024-05-14 20:13:59.784961 [info]: timer tick
+2024-05-14 20:14:04.785276 [info]: timer tick
+2024-05-14 20:14:09.785606 [info]: timer tick
+2024-05-14 20:14:14.785880 [info]: timer tick
+2024-05-14 20:14:19.785911 [info]: timer tick
+2024-05-14 20:14:24.785951 [info]: timer tick
+2024-05-14 20:14:29.786100 [info]: timer tick
+2024-05-14 20:14:34.786409 [info]: timer tick
+2024-05-14 20:14:39.786647 [info]: timer tick
+2024-05-14 20:14:44.786844 [info]: timer tick
+2024-05-14 20:14:49.786989 [info]: timer tick
+2024-05-14 20:14:54.787334 [info]: timer tick
+2024-05-14 20:14:59.787734 [info]: timer tick
+2024-05-14 20:15:04.787871 [info]: timer tick
+2024-05-14 20:15:09.787903 [info]: timer tick
+2024-05-14 20:15:14.788008 [info]: timer tick
+2024-05-14 20:15:19.788194 [info]: timer tick
+2024-05-14 20:15:24.788306 [info]: timer tick
+2024-05-14 20:15:29.788469 [info]: timer tick
+2024-05-14 20:15:34.788620 [info]: timer tick
+2024-05-14 20:15:39.788879 [info]: timer tick
+2024-05-14 20:15:44.789196 [info]: timer tick
+2024-05-14 20:15:49.789474 [info]: timer tick
+2024-05-14 20:15:54.789562 [info]: timer tick
+2024-05-14 20:15:59.789744 [info]: timer tick
+2024-05-14 20:16:04.789798 [info]: timer tick
+2024-05-14 20:16:09.789872 [info]: timer tick
+2024-05-14 20:16:14.789995 [info]: timer tick
+2024-05-14 20:16:19.790286 [info]: timer tick
+2024-05-14 20:16:24.790375 [info]: timer tick
+2024-05-14 20:16:29.790701 [info]: timer tick
+2024-05-14 20:16:34.790868 [info]: timer tick
+2024-05-14 20:16:39.791004 [info]: timer tick
+2024-05-14 20:16:44.791138 [info]: timer tick
+2024-05-14 20:16:49.791199 [info]: timer tick
+2024-05-14 20:16:54.791297 [info]: timer tick
+2024-05-14 20:16:59.791335 [info]: timer tick
+2024-05-14 20:17:04.791471 [info]: timer tick
+2024-05-14 20:17:09.791583 [info]: timer tick
+2024-05-14 20:17:14.791724 [info]: timer tick
+2024-05-14 20:17:19.791872 [info]: timer tick
+2024-05-14 20:17:24.791994 [info]: timer tick
+2024-05-14 20:17:29.792100 [info]: timer tick
+2024-05-14 20:17:34.792258 [info]: timer tick
+2024-05-14 20:17:39.792423 [info]: timer tick
+2024-05-14 20:17:44.792572 [info]: timer tick
+2024-05-14 20:17:49.792866 [info]: timer tick
+2024-05-14 20:17:54.793028 [info]: timer tick
+2024-05-14 20:17:59.793095 [info]: timer tick
+2024-05-14 20:18:04.793252 [info]: timer tick
+2024-05-14 20:18:09.793346 [info]: timer tick
+2024-05-14 20:18:14.793502 [info]: timer tick
+2024-05-14 20:18:19.793843 [info]: timer tick
+2024-05-14 20:18:24.793957 [info]: timer tick
+2024-05-14 20:18:29.794135 [info]: timer tick
+2024-05-14 20:18:34.794292 [info]: timer tick
+2024-05-14 20:18:39.794383 [info]: timer tick
+2024-05-14 20:18:44.794553 [info]: timer tick
+2024-05-14 20:18:49.794702 [info]: timer tick
+2024-05-14 20:18:54.795042 [info]: timer tick
+2024-05-14 20:18:59.795208 [info]: timer tick
+2024-05-14 20:19:04.795539 [info]: timer tick
+2024-05-14 20:19:09.795661 [info]: timer tick
+2024-05-14 20:19:14.795758 [info]: timer tick
+2024-05-14 20:19:19.795908 [info]: timer tick
+2024-05-14 20:19:24.796061 [info]: timer tick
+2024-05-14 20:19:29.796159 [info]: timer tick
+2024-05-14 20:19:34.796276 [info]: timer tick
+2024-05-14 20:19:39.796310 [info]: timer tick
+2024-05-14 20:19:44.796466 [info]: timer tick
+2024-05-14 20:19:49.796587 [info]: timer tick
+2024-05-14 20:19:54.796728 [info]: timer tick
+2024-05-14 20:19:59.796956 [info]: timer tick
+2024-05-14 20:20:04.797079 [info]: timer tick
+2024-05-14 20:20:09.797236 [info]: timer tick
+2024-05-14 20:20:14.797379 [info]: timer tick
+2024-05-14 20:20:19.797475 [info]: timer tick
+2024-05-14 20:20:24.797554 [info]: timer tick
+2024-05-14 20:20:29.797699 [info]: timer tick
+2024-05-14 20:20:34.797764 [info]: timer tick
+2024-05-14 20:20:39.797887 [info]: timer tick
+2024-05-14 20:20:44.797986 [info]: timer tick
+2024-05-14 20:20:49.798078 [info]: timer tick
+2024-05-14 20:20:54.798179 [info]: timer tick
+2024-05-14 20:20:59.798369 [info]: timer tick
+2024-05-14 20:21:04.798483 [info]: timer tick
+2024-05-14 20:21:09.798653 [info]: timer tick
+2024-05-14 20:21:14.798713 [info]: timer tick
+2024-05-14 20:21:19.798876 [info]: timer tick
+2024-05-14 20:21:24.798991 [info]: timer tick
+2024-05-14 20:21:29.799296 [info]: timer tick
+2024-05-14 20:21:34.799483 [info]: timer tick
+2024-05-14 20:21:39.799606 [info]: timer tick
+2024-05-14 20:21:44.799705 [info]: timer tick
+2024-05-14 20:21:49.799773 [info]: timer tick
+2024-05-14 20:21:54.799896 [info]: timer tick
+2024-05-14 20:21:59.800057 [info]: timer tick
+2024-05-14 20:22:04.800216 [info]: timer tick
+2024-05-14 20:22:09.800362 [info]: timer tick
+2024-05-14 20:22:14.800505 [info]: timer tick
+2024-05-14 20:22:19.800611 [info]: timer tick
+2024-05-14 20:22:24.800774 [info]: timer tick
+2024-05-14 20:22:29.800878 [info]: timer tick
+2024-05-14 20:22:34.801049 [info]: timer tick
+2024-05-14 20:22:39.801260 [info]: timer tick
+2024-05-14 20:22:44.801440 [info]: timer tick
+2024-05-14 20:22:49.801787 [info]: timer tick
+2024-05-14 20:22:54.801880 [info]: timer tick
+2024-05-14 20:22:59.802082 [info]: timer tick
+2024-05-14 20:23:04.802422 [info]: timer tick
+2024-05-14 20:23:09.802795 [info]: timer tick
+2024-05-14 20:23:14.802956 [info]: timer tick
+2024-05-14 20:23:19.803071 [info]: timer tick
+2024-05-14 20:23:24.803185 [info]: timer tick
+2024-05-14 20:23:29.803375 [info]: timer tick
+2024-05-14 20:23:34.803546 [info]: timer tick
+2024-05-14 20:23:39.803750 [info]: timer tick
+2024-05-14 20:23:44.803906 [info]: timer tick
+2024-05-14 20:23:49.804044 [info]: timer tick
+2024-05-14 20:23:54.804191 [info]: timer tick
+2024-05-14 20:23:59.804332 [info]: timer tick
+2024-05-14 20:24:04.804448 [info]: timer tick
+2024-05-14 20:24:09.804632 [info]: timer tick
+2024-05-14 20:24:14.804660 [info]: timer tick
+2024-05-14 20:24:19.804761 [info]: timer tick
+2024-05-14 20:24:24.804859 [info]: timer tick
+2024-05-14 20:24:29.805006 [info]: timer tick
+2024-05-14 20:24:34.805340 [info]: timer tick
+2024-05-14 20:24:39.805689 [info]: timer tick
+2024-05-14 20:24:44.805787 [info]: timer tick
+2024-05-14 20:24:49.806122 [info]: timer tick
+2024-05-14 20:24:54.806290 [info]: timer tick
+2024-05-14 20:24:59.806598 [info]: timer tick
+2024-05-14 20:25:04.806955 [info]: timer tick
+2024-05-14 20:25:09.807118 [info]: timer tick
+2024-05-14 20:25:14.807448 [info]: timer tick
+2024-05-14 20:25:19.807608 [info]: timer tick
+2024-05-14 20:25:24.807743 [info]: timer tick
+2024-05-14 20:25:29.807852 [info]: timer tick
+2024-05-14 20:25:34.808020 [info]: timer tick
+2024-05-14 20:25:39.808158 [info]: timer tick
+2024-05-14 20:25:44.808324 [info]: timer tick
+2024-05-14 20:25:49.808348 [info]: timer tick
+2024-05-14 20:25:54.808520 [info]: timer tick
+2024-05-14 20:25:59.808688 [info]: timer tick
+2024-05-14 20:26:04.808825 [info]: timer tick
+2024-05-14 20:26:09.809145 [info]: timer tick
+2024-05-14 20:26:14.809322 [info]: timer tick
+2024-05-14 20:26:19.809606 [info]: timer tick
+2024-05-14 20:26:24.809755 [info]: timer tick
+2024-05-14 20:26:29.809925 [info]: timer tick
+2024-05-14 20:26:34.810077 [info]: timer tick
+2024-05-14 20:26:39.810421 [info]: timer tick
+2024-05-14 20:26:44.810559 [info]: timer tick
+2024-05-14 20:26:49.810898 [info]: timer tick
+2024-05-14 20:26:54.811236 [info]: timer tick
+2024-05-14 20:26:59.811417 [info]: timer tick
+2024-05-14 20:27:04.811549 [info]: timer tick
+2024-05-14 20:27:09.811737 [info]: timer tick
+2024-05-14 20:27:14.812052 [info]: timer tick
+2024-05-14 20:27:19.812243 [info]: timer tick
+2024-05-14 20:27:24.812538 [info]: timer tick
+2024-05-14 20:27:29.812886 [info]: timer tick
+2024-05-14 20:27:34.813071 [info]: timer tick
+2024-05-14 20:27:39.813400 [info]: timer tick
+2024-05-14 20:27:44.813725 [info]: timer tick
+2024-05-14 20:27:49.813875 [info]: timer tick
+2024-05-14 20:27:54.814193 [info]: timer tick
+2024-05-14 20:27:59.814437 [info]: timer tick
+2024-05-14 20:28:04.814722 [info]: timer tick
+2024-05-14 20:28:09.814794 [info]: timer tick
+2024-05-14 20:28:14.815098 [info]: timer tick
+2024-05-14 20:28:19.815254 [info]: timer tick
+2024-05-14 20:28:24.815439 [info]: timer tick
+2024-05-14 20:28:29.815546 [info]: timer tick
+2024-05-14 20:28:34.815568 [info]: timer tick
+2024-05-14 20:28:39.815672 [info]: timer tick
+2024-05-14 20:28:44.815800 [info]: timer tick
+2024-05-14 20:28:49.815945 [info]: timer tick
+2024-05-14 20:28:54.816074 [info]: timer tick
+2024-05-14 20:28:59.816159 [info]: timer tick
+2024-05-14 20:29:04.816334 [info]: timer tick
+2024-05-14 20:29:09.816476 [info]: timer tick
+2024-05-14 20:29:14.816585 [info]: timer tick
+2024-05-14 20:29:19.816745 [info]: timer tick
+2024-05-14 20:29:24.816857 [info]: timer tick
+2024-05-14 20:29:29.817022 [info]: timer tick
+2024-05-14 20:29:34.817142 [info]: timer tick
+2024-05-14 20:29:39.817265 [info]: timer tick
+2024-05-14 20:29:44.817423 [info]: timer tick
+2024-05-14 20:29:49.817577 [info]: timer tick
+2024-05-14 20:29:54.817840 [info]: timer tick
+2024-05-14 20:29:59.817916 [info]: timer tick
+2024-05-14 20:30:04.817997 [info]: timer tick
+2024-05-14 20:30:09.818326 [info]: timer tick
+2024-05-14 20:30:14.818351 [info]: timer tick
+2024-05-14 20:30:19.818709 [info]: timer tick
+2024-05-14 20:30:24.818792 [info]: timer tick
+2024-05-14 20:30:29.818966 [info]: timer tick
+2024-05-14 20:30:34.819260 [info]: timer tick
+2024-05-14 20:30:39.819612 [info]: timer tick
+2024-05-14 20:30:44.819714 [info]: timer tick
+2024-05-14 20:30:49.819828 [info]: timer tick
+2024-05-14 20:30:54.820006 [info]: timer tick
+2024-05-14 20:30:59.820166 [info]: timer tick
+2024-05-14 20:31:04.820324 [info]: timer tick
+2024-05-14 20:31:09.820488 [info]: timer tick
+2024-05-14 20:31:14.820659 [info]: timer tick
+2024-05-14 20:31:19.820843 [info]: timer tick
+2024-05-14 20:31:24.821170 [info]: timer tick
+2024-05-14 20:31:29.821442 [info]: timer tick
+2024-05-14 20:31:34.821767 [info]: timer tick
+2024-05-14 20:31:39.821933 [info]: timer tick
+2024-05-14 20:31:44.822091 [info]: timer tick
+2024-05-14 20:31:49.822313 [info]: timer tick
+2024-05-14 20:31:54.822462 [info]: timer tick
+2024-05-14 20:31:59.822748 [info]: timer tick
+2024-05-14 20:32:04.823075 [info]: timer tick
+2024-05-14 20:32:09.823308 [info]: timer tick
+2024-05-14 20:32:14.823669 [info]: timer tick
+2024-05-14 20:32:19.823797 [info]: timer tick
+2024-05-14 20:32:24.823923 [info]: timer tick
+2024-05-14 20:32:29.824097 [info]: timer tick
+2024-05-14 20:32:34.824273 [info]: timer tick
+2024-05-14 20:32:39.824435 [info]: timer tick
+2024-05-14 20:32:44.824588 [info]: timer tick
+2024-05-14 20:32:48.648938 [info]: deal with the client(127.0.0.1)
+2024-05-14 20:32:48.649068 [info]: POST /3CGISQL.cgi HTTP/1.1
+2024-05-14 20:32:48.649099 [info]: Host: localhost:9006
+2024-05-14 20:32:48.649124 [info]: Connection: keep-alive
+2024-05-14 20:32:48.649156 [info]: Content-Length: 17
+2024-05-14 20:32:48.649174 [info]: Cache-Control: max-age=0
+2024-05-14 20:32:48.649191 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 20:32:48.649217 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 20:32:48.649237 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 20:32:48.649254 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 20:32:48.649268 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 20:32:48.649285 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 20:32:48.649299 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 20:32:48.649316 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 20:32:48.649341 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 20:32:48.649359 [info]: Origin: http://localhost:9006
+2024-05-14 20:32:48.649374 [info]: oop!unknow header: Origin: http://localhost:9006
+2024-05-14 20:32:48.649392 [info]: Content-Type: application/x-www-form-urlencoded
+2024-05-14 20:32:48.649405 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-05-14 20:32:48.649417 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 20:32:48.649429 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 20:32:48.649441 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 20:32:48.649452 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 20:32:48.649469 [info]: Sec-Fetch-Site: same-origin
+2024-05-14 20:32:48.649482 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-05-14 20:32:48.649498 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 20:32:48.649512 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 20:32:48.649529 [info]: Sec-Fetch-User: ?1
+2024-05-14 20:32:48.649542 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 20:32:48.649552 [info]: Sec-Fetch-Dest: document
+2024-05-14 20:32:48.649561 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 20:32:48.649570 [info]: Referer: http://localhost:9006/3CGISQL.cgi
+2024-05-14 20:32:48.649588 [info]: oop!unknow header: Referer: http://localhost:9006/3CGISQL.cgi
+2024-05-14 20:32:48.649612 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 20:32:48.649629 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 20:32:48.649646 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 20:32:48.649657 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 20:32:48.649666 [info]: 
+2024-05-14 20:32:48.649675 [info]: user=5&password=5
+2024-05-14 20:32:48.649729 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 20:32:48.649760 [info]: request:HTTP/1.1 200 OK
+Content-Length:786
+
+2024-05-14 20:32:48.649780 [info]: request:HTTP/1.1 200 OK
+Content-Length:786
+Connection:keep-alive
+
+2024-05-14 20:32:48.649798 [info]: request:HTTP/1.1 200 OK
+Content-Length:786
+Connection:keep-alive
+
+
+2024-05-14 20:32:48.649825 [info]: adjust timer once
+2024-05-14 20:32:48.649905 [info]: send data to the client(127.0.0.1)
+2024-05-14 20:32:48.649923 [info]: adjust timer once
+2024-05-14 20:32:49.824738 [info]: timer tick
+2024-05-14 20:32:54.824882 [info]: timer tick
+2024-05-14 20:32:59.824911 [info]: timer tick
+2024-05-14 20:33:04.825192 [info]: timer tick
+2024-05-14 20:33:09.825283 [info]: timer tick
+2024-05-14 20:33:14.825398 [info]: timer tick
+2024-05-14 20:33:19.825553 [info]: timer tick
+2024-05-14 20:33:24.825724 [info]: timer tick
+2024-05-14 20:33:29.825853 [info]: timer tick
+2024-05-14 20:33:34.825908 [info]: timer tick
+2024-05-14 20:33:39.826193 [info]: timer tick
+2024-05-14 20:33:44.826262 [info]: timer tick
+2024-05-14 20:33:49.826580 [info]: timer tick
+2024-05-14 20:33:54.826726 [info]: timer tick
+2024-05-14 20:33:59.826820 [info]: timer tick
+2024-05-14 20:34:04.826969 [info]: timer tick
+2024-05-14 20:34:09.827165 [info]: timer tick
+2024-05-14 20:34:14.827328 [info]: timer tick
+2024-05-14 20:34:19.827517 [info]: timer tick
+2024-05-14 20:34:24.827550 [info]: timer tick
+2024-05-14 20:34:29.827719 [info]: timer tick
+2024-05-14 20:34:34.827755 [info]: timer tick
+2024-05-14 20:34:39.827901 [info]: timer tick
+2024-05-14 20:34:44.827943 [info]: timer tick
+2024-05-14 20:34:49.828107 [info]: timer tick
+2024-05-14 20:34:54.828198 [info]: timer tick
+2024-05-14 20:34:59.828281 [info]: timer tick
+2024-05-14 20:35:04.828434 [info]: timer tick
+2024-05-14 20:35:09.828578 [info]: timer tick
+2024-05-14 20:35:14.828633 [info]: timer tick
+2024-05-14 20:35:19.828680 [info]: timer tick
+2024-05-14 20:35:24.828842 [info]: timer tick
+2024-05-14 20:35:29.828999 [info]: timer tick
+2024-05-14 20:35:34.829127 [info]: timer tick
+2024-05-14 20:35:39.829248 [info]: timer tick
+2024-05-14 20:35:44.829383 [info]: timer tick
+2024-05-14 20:35:49.829535 [info]: timer tick
+2024-05-14 20:35:54.829721 [info]: timer tick
+2024-05-14 20:35:59.829771 [info]: timer tick
+2024-05-14 20:36:04.829868 [info]: timer tick
+2024-05-14 20:36:09.829987 [info]: timer tick
+2024-05-14 20:36:14.830056 [info]: timer tick
+2024-05-14 20:36:19.830121 [info]: timer tick
+2024-05-14 20:36:24.830445 [info]: timer tick
+2024-05-14 20:36:29.830487 [info]: timer tick
+2024-05-14 20:36:34.830648 [info]: timer tick
+2024-05-14 20:36:39.830775 [info]: timer tick
+2024-05-14 20:36:44.830933 [info]: timer tick
+2024-05-14 20:36:49.831091 [info]: timer tick
+2024-05-14 20:36:54.831250 [info]: timer tick
+2024-05-14 20:36:59.831647 [info]: timer tick
+2024-05-14 20:37:04.831778 [info]: timer tick
+2024-05-14 20:37:09.831932 [info]: timer tick
+2024-05-14 20:37:14.832092 [info]: timer tick
+2024-05-14 20:37:19.832291 [info]: timer tick
+2024-05-14 20:37:24.832442 [info]: timer tick
+2024-05-14 20:37:29.832556 [info]: timer tick
+2024-05-14 20:37:34.832889 [info]: timer tick
+2024-05-14 20:37:39.833082 [info]: timer tick
+2024-05-14 20:37:44.833262 [info]: timer tick
+2024-05-14 20:37:49.833385 [info]: timer tick
+2024-05-14 20:37:54.833502 [info]: timer tick
+2024-05-14 20:37:59.833614 [info]: timer tick
+2024-05-14 20:38:04.833735 [info]: timer tick
+2024-05-14 20:38:09.833783 [info]: timer tick
+2024-05-14 20:38:14.833947 [info]: timer tick
+2024-05-14 20:38:19.834113 [info]: timer tick
+2024-05-14 20:38:24.834225 [info]: timer tick
+2024-05-14 20:38:29.834369 [info]: timer tick
+2024-05-14 20:38:34.834693 [info]: timer tick
+2024-05-14 20:38:39.834817 [info]: timer tick
+2024-05-14 20:38:44.834965 [info]: timer tick
+2024-05-14 20:38:49.835035 [info]: timer tick
+2024-05-14 20:38:54.835197 [info]: timer tick
+2024-05-14 20:38:59.835393 [info]: timer tick
+2024-05-14 20:39:04.835478 [info]: timer tick
+2024-05-14 20:39:09.835593 [info]: timer tick
+2024-05-14 20:39:14.835842 [info]: timer tick
+2024-05-14 20:39:19.836091 [info]: timer tick
+2024-05-14 20:39:24.836255 [info]: timer tick
+2024-05-14 20:39:29.836441 [info]: timer tick
+2024-05-14 20:39:34.836700 [info]: timer tick
+2024-05-14 20:39:39.836869 [info]: timer tick
+2024-05-14 20:39:44.836980 [info]: timer tick
+2024-05-14 20:39:49.837146 [info]: timer tick
+2024-05-14 20:39:54.837217 [info]: timer tick
+2024-05-14 20:39:59.837366 [info]: timer tick
+2024-05-14 20:40:04.837520 [info]: timer tick
+2024-05-14 20:40:09.837548 [info]: timer tick
+2024-05-14 20:40:14.837751 [info]: timer tick
+2024-05-14 20:40:19.837797 [info]: timer tick
+2024-05-14 20:40:24.837896 [info]: timer tick
+2024-05-14 20:40:29.838183 [info]: timer tick
+2024-05-14 20:40:34.838263 [info]: timer tick
+2024-05-14 20:40:39.838362 [info]: timer tick
+2024-05-14 20:40:44.838528 [info]: timer tick
+2024-05-14 20:40:49.838610 [info]: timer tick
+2024-05-14 20:40:54.838755 [info]: timer tick
+2024-05-14 20:40:59.838879 [info]: timer tick
+2024-05-14 20:41:04.839045 [info]: timer tick
+2024-05-14 20:41:09.839188 [info]: timer tick
+2024-05-14 20:41:14.839301 [info]: timer tick
+2024-05-14 20:41:19.839633 [info]: timer tick
+2024-05-14 20:41:24.839676 [info]: timer tick
+2024-05-14 20:41:29.839779 [info]: timer tick
+2024-05-14 20:41:34.839849 [info]: timer tick
+2024-05-14 20:41:39.839883 [info]: timer tick
+2024-05-14 20:41:44.839945 [info]: timer tick
+2024-05-14 20:41:49.840027 [info]: timer tick
+2024-05-14 20:41:54.840161 [info]: timer tick
+2024-05-14 20:41:59.840233 [info]: timer tick
+2024-05-14 20:42:04.840292 [info]: timer tick
+2024-05-14 20:42:09.840445 [info]: timer tick
+2024-05-14 20:42:14.840547 [info]: timer tick
+2024-05-14 20:42:19.840696 [info]: timer tick
+2024-05-14 20:42:24.840795 [info]: timer tick
+2024-05-14 20:42:29.840919 [info]: timer tick
+2024-05-14 20:42:34.841118 [info]: timer tick
+2024-05-14 20:42:39.841479 [info]: timer tick
+2024-05-14 20:42:44.841627 [info]: timer tick
+2024-05-14 20:42:49.841725 [info]: timer tick
+2024-05-14 20:42:54.842035 [info]: timer tick
+2024-05-14 20:42:59.842179 [info]: timer tick
+2024-05-14 20:43:04.842250 [info]: timer tick
+2024-05-14 20:43:09.842325 [info]: timer tick
+2024-05-14 20:43:14.842427 [info]: timer tick
+2024-05-14 20:43:19.842755 [info]: timer tick
+2024-05-14 20:43:24.842915 [info]: timer tick
+2024-05-14 20:43:29.843079 [info]: timer tick
+2024-05-14 20:43:34.843240 [info]: timer tick
+2024-05-14 20:43:39.843573 [info]: timer tick
+2024-05-14 20:43:44.843722 [info]: timer tick
+2024-05-14 20:43:49.843892 [info]: timer tick
+2024-05-14 20:43:54.844080 [info]: timer tick
+2024-05-14 20:43:59.844231 [info]: timer tick
+2024-05-14 20:44:04.844347 [info]: timer tick
+2024-05-14 20:44:09.844499 [info]: timer tick
+2024-05-14 20:44:14.844618 [info]: timer tick
+2024-05-14 20:44:19.844740 [info]: timer tick
+2024-05-14 20:44:24.844902 [info]: timer tick
+2024-05-14 20:44:29.845009 [info]: timer tick
+2024-05-14 20:44:34.845072 [info]: timer tick
+2024-05-14 20:44:39.845196 [info]: timer tick
+2024-05-14 20:44:44.845251 [info]: timer tick
+2024-05-14 20:44:49.845391 [info]: timer tick
+2024-05-14 20:44:54.845554 [info]: timer tick
+2024-05-14 20:44:59.845794 [info]: timer tick
+2024-05-14 20:45:04.846008 [info]: timer tick
+2024-05-14 20:45:09.846125 [info]: timer tick
+2024-05-14 20:45:14.846350 [info]: timer tick
+2024-05-14 20:45:19.846527 [info]: timer tick
+2024-05-14 20:45:24.846671 [info]: timer tick
+2024-05-14 20:45:29.846895 [info]: timer tick
+2024-05-14 20:45:34.847208 [info]: timer tick
+2024-05-14 20:45:39.847431 [info]: timer tick
+2024-05-14 20:45:44.847552 [info]: timer tick
+2024-05-14 20:45:49.847711 [info]: timer tick
+2024-05-14 20:45:54.847827 [info]: timer tick
+2024-05-14 20:45:59.847947 [info]: timer tick
+2024-05-14 20:46:04.848095 [info]: timer tick
+2024-05-14 20:46:09.848162 [info]: timer tick
+2024-05-14 20:46:14.848233 [info]: timer tick
+2024-05-14 20:46:19.848395 [info]: timer tick
+2024-05-14 20:46:24.848492 [info]: timer tick
+2024-05-14 20:46:29.848645 [info]: timer tick
+2024-05-14 20:46:34.848794 [info]: timer tick
+2024-05-14 20:46:39.848949 [info]: timer tick
+2024-05-14 20:46:44.849004 [info]: timer tick
+2024-05-14 20:46:49.849149 [info]: timer tick
+2024-05-14 20:46:54.849188 [info]: timer tick
+2024-05-14 20:46:59.849313 [info]: timer tick
+2024-05-14 20:47:04.849426 [info]: timer tick
+2024-05-14 20:47:09.849720 [info]: timer tick
+2024-05-14 20:47:14.849873 [info]: timer tick
+2024-05-14 20:47:19.849995 [info]: timer tick
+2024-05-14 20:47:24.850154 [info]: timer tick
+2024-05-14 20:47:29.850217 [info]: timer tick
+2024-05-14 20:47:34.850381 [info]: timer tick
+2024-05-14 20:47:39.850591 [info]: timer tick
+2024-05-14 20:47:44.850754 [info]: timer tick
+2024-05-14 20:47:49.850801 [info]: timer tick
+2024-05-14 20:47:54.850932 [info]: timer tick
+2024-05-14 20:47:59.851075 [info]: timer tick
+2024-05-14 20:48:04.851221 [info]: timer tick
+2024-05-14 20:48:09.851399 [info]: timer tick
+2024-05-14 20:48:14.851468 [info]: timer tick
+2024-05-14 20:48:19.851732 [info]: timer tick
+2024-05-14 20:48:24.851887 [info]: timer tick
+2024-05-14 20:48:29.851976 [info]: timer tick
+2024-05-14 20:48:34.852118 [info]: timer tick
+2024-05-14 20:48:39.852271 [info]: timer tick
+2024-05-14 20:48:44.852428 [info]: timer tick
+2024-05-14 20:48:49.852742 [info]: timer tick
+2024-05-14 20:48:54.852906 [info]: timer tick
+2024-05-14 20:48:59.853065 [info]: timer tick
+2024-05-14 20:49:04.853380 [info]: timer tick
+2024-05-14 20:49:09.853656 [info]: timer tick
+2024-05-14 20:49:14.853812 [info]: timer tick
+2024-05-14 20:49:19.853967 [info]: timer tick
+2024-05-14 20:49:24.854075 [info]: timer tick
+2024-05-14 20:49:29.854170 [info]: timer tick
+2024-05-14 20:49:34.854342 [info]: timer tick
+2024-05-14 20:49:39.854630 [info]: timer tick
+2024-05-14 20:49:44.854793 [info]: timer tick
+2024-05-14 20:49:49.854906 [info]: timer tick
+2024-05-14 20:49:54.855031 [info]: timer tick
+2024-05-14 20:49:59.855384 [info]: timer tick
+2024-05-14 20:50:04.855425 [info]: timer tick
+2024-05-14 20:50:09.855547 [info]: timer tick
+2024-05-14 20:50:14.855688 [info]: timer tick
+2024-05-14 20:50:19.855814 [info]: timer tick
+2024-05-14 20:50:24.855972 [info]: timer tick
+2024-05-14 20:50:29.856075 [info]: timer tick
+2024-05-14 20:50:34.856227 [info]: timer tick
+2024-05-14 20:50:39.856405 [info]: timer tick
+2024-05-14 20:50:44.856570 [info]: timer tick
+2024-05-14 20:50:49.856611 [info]: timer tick
+2024-05-14 20:50:54.856670 [info]: timer tick
+2024-05-14 20:50:59.856795 [info]: timer tick
+2024-05-14 20:51:04.857116 [info]: timer tick
+2024-05-14 20:51:09.857259 [info]: timer tick
+2024-05-14 20:51:14.857408 [info]: timer tick
+2024-05-14 20:51:19.857690 [info]: timer tick
+2024-05-14 20:51:24.857999 [info]: timer tick
+2024-05-14 20:51:29.858081 [info]: timer tick
+2024-05-14 20:51:34.858223 [info]: timer tick
+2024-05-14 20:51:39.858261 [info]: timer tick
+2024-05-14 20:51:44.858296 [info]: timer tick
+2024-05-14 20:51:49.858417 [info]: timer tick
+2024-05-14 20:51:54.858568 [info]: timer tick
+2024-05-14 20:51:59.858719 [info]: timer tick
+2024-05-14 20:52:04.858989 [info]: timer tick
+2024-05-14 20:52:09.859124 [info]: timer tick
+2024-05-14 20:52:14.859269 [info]: timer tick
+2024-05-14 20:52:19.859408 [info]: timer tick
+2024-05-14 20:52:24.859552 [info]: timer tick
+2024-05-14 20:52:29.859664 [info]: timer tick
+2024-05-14 20:52:34.859716 [info]: timer tick
+2024-05-14 20:52:39.859798 [info]: timer tick
+2024-05-14 20:52:44.859947 [info]: timer tick
+2024-05-14 20:52:49.860105 [info]: timer tick
+2024-05-14 20:52:54.860228 [info]: timer tick
+2024-05-14 20:52:59.860386 [info]: timer tick
+2024-05-14 20:53:04.860696 [info]: timer tick
+2024-05-14 20:53:09.861011 [info]: timer tick
+2024-05-14 20:53:14.861353 [info]: timer tick
+2024-05-14 20:53:19.861458 [info]: timer tick
+2024-05-14 20:53:24.861587 [info]: timer tick
+2024-05-14 20:53:29.861741 [info]: timer tick
+2024-05-14 20:53:34.861874 [info]: timer tick
+2024-05-14 20:53:39.862042 [info]: timer tick
+2024-05-14 20:53:44.862380 [info]: timer tick
+2024-05-14 20:53:49.862530 [info]: timer tick
+2024-05-14 20:53:54.862796 [info]: timer tick
+2024-05-14 20:53:59.863136 [info]: timer tick
+2024-05-14 20:54:04.863205 [info]: timer tick
+2024-05-14 20:54:09.863553 [info]: timer tick
+2024-05-14 20:54:14.863670 [info]: timer tick
+2024-05-14 20:54:19.863800 [info]: timer tick
+2024-05-14 20:54:24.863905 [info]: timer tick
+2024-05-14 20:54:29.864065 [info]: timer tick
+2024-05-14 20:54:34.864134 [info]: timer tick
+2024-05-14 20:54:39.864243 [info]: timer tick
+2024-05-14 20:54:44.864405 [info]: timer tick
+2024-05-14 20:54:49.864523 [info]: timer tick
+2024-05-14 20:54:54.864646 [info]: timer tick
+2024-05-14 20:54:59.864789 [info]: timer tick
+2024-05-14 20:55:04.864883 [info]: timer tick
+2024-05-14 20:55:09.865074 [info]: timer tick
+2024-05-14 20:55:14.865320 [info]: timer tick
+2024-05-14 20:55:19.865461 [info]: timer tick
+2024-05-14 20:55:24.865799 [info]: timer tick
+2024-05-14 20:55:29.866142 [info]: timer tick
+2024-05-14 20:55:34.866256 [info]: timer tick
+2024-05-14 20:55:39.866517 [info]: timer tick
+2024-05-14 20:55:44.866682 [info]: timer tick
+2024-05-14 20:55:49.866827 [info]: timer tick
+2024-05-14 20:55:54.866968 [info]: timer tick
+2024-05-14 20:55:59.867130 [info]: timer tick
+2024-05-14 20:56:04.867319 [info]: timer tick
+2024-05-14 20:56:09.867404 [info]: timer tick
+2024-05-14 20:56:14.867547 [info]: timer tick
+2024-05-14 20:56:19.867577 [info]: timer tick
+2024-05-14 20:56:24.867673 [info]: timer tick
+2024-05-14 20:56:29.867732 [info]: timer tick
+2024-05-14 20:56:34.867882 [info]: timer tick
+2024-05-14 20:56:39.867942 [info]: timer tick
+2024-05-14 20:56:44.868118 [info]: timer tick
+2024-05-14 20:56:49.868152 [info]: timer tick
+2024-05-14 20:56:54.868190 [info]: timer tick
+2024-05-14 20:56:59.868295 [info]: timer tick
+2024-05-14 20:57:04.868445 [info]: timer tick
+2024-05-14 20:57:09.868620 [info]: timer tick
+2024-05-14 20:57:14.868782 [info]: timer tick
+2024-05-14 20:57:19.868931 [info]: timer tick
+2024-05-14 20:57:24.869105 [info]: timer tick
+2024-05-14 20:57:29.869210 [info]: timer tick
+2024-05-14 20:57:34.869380 [info]: timer tick
+2024-05-14 20:57:39.869723 [info]: timer tick
+2024-05-14 20:57:44.869844 [info]: timer tick
+2024-05-14 20:57:49.869989 [info]: timer tick
+2024-05-14 20:57:54.870032 [info]: timer tick
+2024-05-14 20:57:59.870325 [info]: timer tick
+2024-05-14 20:58:04.870462 [info]: timer tick
+2024-05-14 20:58:09.870490 [info]: timer tick
+2024-05-14 20:58:14.870646 [info]: timer tick
+2024-05-14 20:58:19.870677 [info]: timer tick
+2024-05-14 20:58:24.870817 [info]: timer tick
+2024-05-14 20:58:29.870973 [info]: timer tick
+2024-05-14 20:58:34.871043 [info]: timer tick
+2024-05-14 20:58:39.871197 [info]: timer tick
+2024-05-14 20:58:44.871594 [info]: timer tick
+2024-05-14 20:58:49.871743 [info]: timer tick
+2024-05-14 20:58:54.871871 [info]: timer tick
+2024-05-14 20:58:59.871972 [info]: timer tick
+2024-05-14 20:59:04.872050 [info]: timer tick
+2024-05-14 20:59:09.872216 [info]: timer tick
+2024-05-14 20:59:14.872358 [info]: timer tick
+2024-05-14 20:59:19.872498 [info]: timer tick
+2024-05-14 20:59:24.872814 [info]: timer tick
+2024-05-14 20:59:29.873140 [info]: timer tick
+2024-05-14 20:59:34.873293 [info]: timer tick
+2024-05-14 20:59:39.873453 [info]: timer tick
+2024-05-14 20:59:44.873551 [info]: timer tick
+2024-05-14 20:59:49.873849 [info]: timer tick
+2024-05-14 20:59:54.873916 [info]: timer tick
+2024-05-14 20:59:59.874185 [info]: timer tick
+2024-05-14 21:00:04.874290 [info]: timer tick
+2024-05-14 21:00:09.874603 [info]: timer tick
+2024-05-14 21:00:14.874632 [info]: timer tick
+2024-05-14 21:00:19.874806 [info]: timer tick
+2024-05-14 21:00:24.875136 [info]: timer tick
+2024-05-14 21:00:29.875296 [info]: timer tick
+2024-05-14 21:00:34.875504 [info]: timer tick
+2024-05-14 21:00:39.875746 [info]: timer tick
+2024-05-14 21:00:44.875905 [info]: timer tick
+2024-05-14 21:00:49.876009 [info]: timer tick
+2024-05-14 21:00:54.876069 [info]: timer tick
+2024-05-14 21:00:59.876243 [info]: timer tick
+2024-05-14 21:01:04.876361 [info]: timer tick
+2024-05-14 21:01:09.876534 [info]: timer tick
+2024-05-14 21:01:14.876683 [info]: timer tick
+2024-05-14 21:01:19.876781 [info]: timer tick
+2024-05-14 21:01:24.876886 [info]: timer tick
+2024-05-14 21:01:29.877007 [info]: timer tick
+2024-05-14 21:01:34.877263 [info]: timer tick
+2024-05-14 21:01:39.877374 [info]: timer tick
+2024-05-14 21:01:44.877530 [info]: timer tick
+2024-05-14 21:01:49.877592 [info]: timer tick
+2024-05-14 21:01:54.877850 [info]: timer tick
+2024-05-14 21:01:59.878002 [info]: timer tick
+2024-05-14 21:02:04.878154 [info]: timer tick
+2024-05-14 21:02:09.878294 [info]: timer tick
+2024-05-14 21:02:14.878625 [info]: timer tick
+2024-05-14 21:02:19.878759 [info]: timer tick
+2024-05-14 21:02:24.878923 [info]: timer tick
+2024-05-14 21:02:29.879046 [info]: timer tick
+2024-05-14 21:02:34.879159 [info]: timer tick
+2024-05-14 21:02:39.879313 [info]: timer tick
+2024-05-14 21:02:44.879439 [info]: timer tick
+2024-05-14 21:02:49.879543 [info]: timer tick
+2024-05-14 21:02:54.879575 [info]: timer tick
+2024-05-14 21:02:59.879739 [info]: timer tick
+2024-05-14 21:03:04.879831 [info]: timer tick
+2024-05-14 21:03:09.879956 [info]: timer tick
+2024-05-14 21:03:14.880113 [info]: timer tick
+2024-05-14 21:03:19.880400 [info]: timer tick
+2024-05-14 21:03:24.880565 [info]: timer tick
+2024-05-14 21:03:29.880855 [info]: timer tick
+2024-05-14 21:03:34.881182 [info]: timer tick
+2024-05-14 21:03:39.881324 [info]: timer tick
+2024-05-14 21:03:44.881512 [info]: timer tick
+2024-05-14 21:03:49.881575 [info]: timer tick
+2024-05-14 21:03:54.881852 [info]: timer tick
+2024-05-14 21:03:59.881959 [info]: timer tick
+2024-05-14 21:04:04.882033 [info]: timer tick
+2024-05-14 21:04:09.882107 [info]: timer tick
+2024-05-14 21:04:14.882167 [info]: timer tick
+2024-05-14 21:04:19.882206 [info]: timer tick
+2024-05-14 21:04:24.882315 [info]: timer tick
+2024-05-14 21:04:29.882428 [info]: timer tick
+2024-05-14 21:04:34.882494 [info]: timer tick
+2024-05-14 21:04:39.882562 [info]: timer tick
+2024-05-14 21:04:44.882641 [info]: timer tick
+2024-05-14 21:04:49.882673 [info]: timer tick
+2024-05-14 21:04:54.882735 [info]: timer tick
+2024-05-14 21:04:59.883058 [info]: timer tick
+2024-05-14 21:05:04.883469 [info]: timer tick
+2024-05-14 21:05:09.883581 [info]: timer tick
+2024-05-14 21:05:14.883718 [info]: timer tick
+2024-05-14 21:05:19.883856 [info]: timer tick
+2024-05-14 21:05:24.884002 [info]: timer tick
+2024-05-14 21:05:29.884112 [info]: timer tick
+2024-05-14 21:05:34.884277 [info]: timer tick
+2024-05-14 21:05:39.884460 [info]: timer tick
+2024-05-14 21:05:44.884618 [info]: timer tick
+2024-05-14 21:05:49.884735 [info]: timer tick
+2024-05-14 21:05:54.884865 [info]: timer tick
+2024-05-14 21:05:59.885016 [info]: timer tick
+2024-05-14 21:06:04.885334 [info]: timer tick
+2024-05-14 21:06:09.885421 [info]: timer tick
+2024-05-14 21:06:14.885621 [info]: timer tick
+2024-05-14 21:06:19.885669 [info]: timer tick
+2024-05-14 21:06:24.885751 [info]: timer tick
+2024-05-14 21:06:29.885898 [info]: timer tick
+2024-05-14 21:06:34.886059 [info]: timer tick
+2024-05-14 21:06:39.886092 [info]: timer tick
+2024-05-14 21:06:44.886277 [info]: timer tick
+2024-05-14 21:06:49.886601 [info]: timer tick
+2024-05-14 21:06:54.886738 [info]: timer tick
+2024-05-14 21:06:59.886864 [info]: timer tick
+2024-05-14 21:07:04.886995 [info]: timer tick
+2024-05-14 21:07:09.887018 [info]: timer tick
+2024-05-14 21:07:14.887146 [info]: timer tick
+2024-05-14 21:07:19.887179 [info]: timer tick
+2024-05-14 21:07:24.887279 [info]: timer tick
+2024-05-14 21:07:29.887407 [info]: timer tick
+2024-05-14 21:07:34.887439 [info]: timer tick
+2024-05-14 21:07:39.887558 [info]: timer tick
+2024-05-14 21:07:44.887730 [info]: timer tick
+2024-05-14 21:07:49.887772 [info]: timer tick
+2024-05-14 21:07:54.887804 [info]: timer tick
+2024-05-14 21:07:59.887943 [info]: timer tick
+2024-05-14 21:08:04.888102 [info]: timer tick
+2024-05-14 21:08:09.888214 [info]: timer tick
+2024-05-14 21:08:14.888374 [info]: timer tick
+2024-05-14 21:08:19.888546 [info]: timer tick
+2024-05-14 21:08:24.888705 [info]: timer tick
+2024-05-14 21:08:29.888876 [info]: timer tick
+2024-05-14 21:08:34.889195 [info]: timer tick
+2024-05-14 21:08:39.889447 [info]: timer tick
+2024-05-14 21:08:44.889600 [info]: timer tick
+2024-05-14 21:08:49.889767 [info]: timer tick
+2024-05-14 21:08:54.889824 [info]: timer tick
+2024-05-14 21:08:59.889937 [info]: timer tick
+2024-05-14 21:09:04.889970 [info]: timer tick
+2024-05-14 21:09:09.890219 [info]: timer tick
+2024-05-14 21:09:14.890322 [info]: timer tick
+2024-05-14 21:09:19.890634 [info]: timer tick
+2024-05-14 21:09:24.890772 [info]: timer tick
+2024-05-14 21:09:29.891084 [info]: timer tick
+2024-05-14 21:09:34.891172 [info]: timer tick
+2024-05-14 21:09:39.891233 [info]: timer tick
+2024-05-14 21:09:44.891591 [info]: timer tick
+2024-05-14 21:09:49.891641 [info]: timer tick
+2024-05-14 21:09:54.891771 [info]: timer tick
+2024-05-14 21:09:59.891917 [info]: timer tick
+2024-05-14 21:10:04.892081 [info]: timer tick
+2024-05-14 21:10:09.892242 [info]: timer tick
+2024-05-14 21:10:14.892350 [info]: timer tick
+2024-05-14 21:10:19.892504 [info]: timer tick
+2024-05-14 21:10:24.892617 [info]: timer tick
+2024-05-14 21:10:29.892870 [info]: timer tick
+2024-05-14 21:10:34.893041 [info]: timer tick
+2024-05-14 21:10:39.893187 [info]: timer tick
+2024-05-14 21:10:44.893529 [info]: timer tick
+2024-05-14 21:10:49.893637 [info]: timer tick
+2024-05-14 21:10:54.893791 [info]: timer tick
+2024-05-14 21:10:59.894086 [info]: timer tick
+2024-05-14 21:11:04.894161 [info]: timer tick
+2024-05-14 21:11:09.894245 [info]: timer tick
+2024-05-14 21:11:14.894409 [info]: timer tick
+2024-05-14 21:11:19.894763 [info]: timer tick
+2024-05-14 21:11:24.895116 [info]: timer tick
+2024-05-14 21:11:29.895297 [info]: timer tick
+2024-05-14 21:11:34.895478 [info]: timer tick
+2024-05-14 21:11:39.895595 [info]: timer tick
+2024-05-14 21:11:44.895697 [info]: timer tick
+2024-05-14 21:11:49.895800 [info]: timer tick
+2024-05-14 21:11:54.895952 [info]: timer tick
+2024-05-14 21:11:59.896121 [info]: timer tick
+2024-05-14 21:12:04.896294 [info]: timer tick
+2024-05-14 21:12:09.896454 [info]: timer tick
+2024-05-14 21:12:14.896612 [info]: timer tick
+2024-05-14 21:12:19.896936 [info]: timer tick
+2024-05-14 21:12:24.897055 [info]: timer tick
+2024-05-14 21:12:29.897157 [info]: timer tick
+2024-05-14 21:12:34.897304 [info]: timer tick
+2024-05-14 21:12:39.897652 [info]: timer tick
+2024-05-14 21:12:44.897756 [info]: timer tick
+2024-05-14 21:12:49.897908 [info]: timer tick
+2024-05-14 21:12:54.898239 [info]: timer tick
+2024-05-14 21:12:59.898523 [info]: timer tick
+2024-05-14 21:13:04.898651 [info]: timer tick
+2024-05-14 21:13:09.898978 [info]: timer tick
+2024-05-14 21:13:14.899300 [info]: timer tick
+2024-05-14 21:13:19.899671 [info]: timer tick
+2024-05-14 21:13:24.899761 [info]: timer tick
+2024-05-14 21:13:29.899944 [info]: timer tick
+2024-05-14 21:13:34.900016 [info]: timer tick
+2024-05-14 21:13:39.900151 [info]: timer tick
+2024-05-14 21:13:44.900324 [info]: timer tick
+2024-05-14 21:13:49.900466 [info]: timer tick
+2024-05-14 21:13:54.900644 [info]: timer tick
+2024-05-14 21:13:59.900745 [info]: timer tick
+2024-05-14 21:14:04.900852 [info]: timer tick
+2024-05-14 21:14:09.900997 [info]: timer tick
+2024-05-14 21:14:14.901124 [info]: timer tick
+2024-05-14 21:14:19.901229 [info]: timer tick
+2024-05-14 21:14:24.901384 [info]: timer tick
+2024-05-14 21:14:29.901515 [info]: timer tick
+2024-05-14 21:14:34.901552 [info]: timer tick
+2024-05-14 21:14:39.901730 [info]: timer tick
+2024-05-14 21:14:44.902070 [info]: timer tick
+2024-05-14 21:14:49.902184 [info]: timer tick
+2024-05-14 21:14:54.902317 [info]: timer tick
+2024-05-14 21:14:59.902429 [info]: timer tick
+2024-05-14 21:15:04.902545 [info]: timer tick
+2024-05-14 21:15:09.902677 [info]: timer tick
+2024-05-14 21:15:14.902820 [info]: timer tick
+2024-05-14 21:15:19.902952 [info]: timer tick
+2024-05-14 21:15:24.903124 [info]: timer tick
+2024-05-14 21:15:29.903386 [info]: timer tick
+2024-05-14 21:15:34.903487 [info]: timer tick
+2024-05-14 21:15:39.903598 [info]: timer tick
+2024-05-14 21:15:44.903662 [info]: timer tick
+2024-05-14 21:15:49.903778 [info]: timer tick
+2024-05-14 21:15:54.903930 [info]: timer tick
+2024-05-14 21:15:59.904088 [info]: timer tick
+2024-05-14 21:16:04.904222 [info]: timer tick
+2024-05-14 21:16:09.904327 [info]: timer tick
+2024-05-14 21:16:14.904485 [info]: timer tick
+2024-05-14 21:16:19.904642 [info]: timer tick
+2024-05-14 21:16:24.904727 [info]: timer tick
+2024-05-14 21:16:29.904875 [info]: timer tick
+2024-05-14 21:16:34.905024 [info]: timer tick
+2024-05-14 21:16:39.905147 [info]: timer tick
+2024-05-14 21:16:44.905453 [info]: timer tick
+2024-05-14 21:16:49.905556 [info]: timer tick
+2024-05-14 21:16:54.905717 [info]: timer tick
+2024-05-14 21:16:59.905861 [info]: timer tick
+2024-05-14 21:17:04.906013 [info]: timer tick
+2024-05-14 21:17:09.906140 [info]: timer tick
+2024-05-14 21:17:14.906258 [info]: timer tick
+2024-05-14 21:17:19.906617 [info]: timer tick
+2024-05-14 21:17:24.906795 [info]: timer tick
+2024-05-14 21:17:29.907130 [info]: timer tick
+2024-05-14 21:17:34.907473 [info]: timer tick
+2024-05-14 21:17:39.907690 [info]: timer tick
+2024-05-14 21:17:44.907844 [info]: timer tick
+2024-05-14 21:17:49.907989 [info]: timer tick
+2024-05-14 21:17:54.908135 [info]: timer tick
+2024-05-14 21:17:59.908282 [info]: timer tick
+2024-05-14 21:18:04.908449 [info]: timer tick
+2024-05-14 21:18:09.908484 [info]: timer tick
+2024-05-14 21:18:14.908599 [info]: timer tick
+2024-05-14 21:18:19.908643 [info]: timer tick
+2024-05-14 21:18:24.908715 [info]: timer tick
+2024-05-14 21:18:29.908876 [info]: timer tick
+2024-05-14 21:18:34.908979 [info]: timer tick
+2024-05-14 21:18:39.909242 [info]: timer tick
+2024-05-14 21:18:44.909268 [info]: timer tick
+2024-05-14 21:18:49.909359 [info]: timer tick
+2024-05-14 21:18:54.909525 [info]: timer tick
+2024-05-14 21:18:59.909684 [info]: timer tick
+2024-05-14 21:19:04.909774 [info]: timer tick
+2024-05-14 21:19:09.909883 [info]: timer tick
+2024-05-14 21:19:14.909975 [info]: timer tick
+2024-05-14 21:19:19.910104 [info]: timer tick
+2024-05-14 21:19:24.910141 [info]: timer tick
+2024-05-14 21:19:29.910273 [info]: timer tick
+2024-05-14 21:19:34.910334 [info]: timer tick
+2024-05-14 21:19:39.910413 [info]: timer tick
+2024-05-14 21:19:44.910531 [info]: timer tick
+2024-05-14 21:19:49.910578 [info]: timer tick
+2024-05-14 21:19:52.206926 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:19:52.207041 [info]: adjust timer once
+2024-05-14 21:19:52.207116 [info]: GET / HTTP/1.1
+2024-05-14 21:19:52.207188 [info]: Host: localhost:9006
+2024-05-14 21:19:52.207226 [info]: Connection: keep-alive
+2024-05-14 21:19:52.207256 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:52.207283 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:52.207310 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:52.207336 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:52.207399 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:52.207428 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:52.207454 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:52.207482 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:52.207511 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:52.207548 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:52.207577 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:52.207604 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:52.207627 [info]: Sec-Fetch-Site: none
+2024-05-14 21:19:52.207652 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:19:52.207677 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:52.207702 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:52.207728 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:19:52.207754 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:19:52.207780 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:19:52.207806 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:19:52.207831 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:52.207857 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:52.207895 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:52.207936 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:52.207955 [info]: 
+2024-05-14 21:19:52.208004 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 21:19:52.208032 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2024-05-14 21:19:52.208052 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2024-05-14 21:19:52.208071 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2024-05-14 21:19:52.208178 [info]: send data to the client(127.0.0.1)
+2024-05-14 21:19:52.208216 [info]: adjust timer once
+2024-05-14 21:19:53.531660 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:19:53.531747 [info]: adjust timer once
+2024-05-14 21:19:53.531830 [info]: POST /1 HTTP/1.1
+2024-05-14 21:19:53.531877 [info]: Host: localhost:9006
+2024-05-14 21:19:53.531902 [info]: Connection: keep-alive
+2024-05-14 21:19:53.531949 [info]: Content-Length: 0
+2024-05-14 21:19:53.531980 [info]: Cache-Control: max-age=0
+2024-05-14 21:19:53.532006 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 21:19:53.532035 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:53.532063 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:53.532083 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:53.532103 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:53.532122 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:53.532141 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:53.532181 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:53.532214 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:53.532240 [info]: Origin: http://localhost:9006
+2024-05-14 21:19:53.532268 [info]: oop!unknow header: Origin: http://localhost:9006
+2024-05-14 21:19:53.532295 [info]: Content-Type: application/x-www-form-urlencoded
+2024-05-14 21:19:53.532326 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-05-14 21:19:53.532345 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:53.532361 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:53.532377 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:53.532392 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:53.532417 [info]: Sec-Fetch-Site: same-origin
+2024-05-14 21:19:53.532432 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-05-14 21:19:53.532448 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:53.532463 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:53.532478 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:19:53.532493 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:19:53.532508 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:19:53.532522 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:19:53.532537 [info]: Referer: http://localhost:9006/
+2024-05-14 21:19:53.532552 [info]: oop!unknow header: Referer: http://localhost:9006/
+2024-05-14 21:19:53.532567 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:53.532582 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:53.532597 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:53.532612 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:53.532627 [info]: 
+2024-05-14 21:19:53.532674 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 21:19:53.532699 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2024-05-14 21:19:53.532715 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2024-05-14 21:19:53.532730 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2024-05-14 21:19:53.532856 [info]: send data to the client(127.0.0.1)
+2024-05-14 21:19:53.532903 [info]: adjust timer once
+2024-05-14 21:19:54.910723 [info]: timer tick
+2024-05-14 21:19:55.253201 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:19:55.253300 [info]: adjust timer once
+2024-05-14 21:19:55.253368 [info]: POST /2CGISQL.cgi HTTP/1.1
+2024-05-14 21:19:55.253424 [info]: Host: localhost:9006
+2024-05-14 21:19:55.253471 [info]: Connection: keep-alive
+2024-05-14 21:19:55.253507 [info]: Content-Length: 17
+2024-05-14 21:19:55.253535 [info]: Cache-Control: max-age=0
+2024-05-14 21:19:55.253560 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 21:19:55.253577 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:55.253592 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:55.253606 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:55.253622 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:55.253637 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:55.253651 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:55.253665 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:55.253679 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:55.253701 [info]: Origin: http://localhost:9006
+2024-05-14 21:19:55.253727 [info]: oop!unknow header: Origin: http://localhost:9006
+2024-05-14 21:19:55.253742 [info]: Content-Type: application/x-www-form-urlencoded
+2024-05-14 21:19:55.253757 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2024-05-14 21:19:55.253773 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:55.253812 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:55.253844 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:55.253872 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:55.253907 [info]: Sec-Fetch-Site: same-origin
+2024-05-14 21:19:55.253924 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-05-14 21:19:55.253938 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:55.253952 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:55.253978 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:19:55.254024 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:19:55.254055 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:19:55.254079 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:19:55.254102 [info]: Referer: http://localhost:9006/1
+2024-05-14 21:19:55.254136 [info]: oop!unknow header: Referer: http://localhost:9006/1
+2024-05-14 21:19:55.254172 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:55.254198 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:55.254222 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:55.254244 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:55.254271 [info]: 
+2024-05-14 21:19:55.254287 [info]: user=1&password=1
+2024-05-14 21:19:55.254362 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 21:19:55.254394 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+
+2024-05-14 21:19:55.254409 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+Connection:keep-alive
+
+2024-05-14 21:19:55.254423 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+Connection:keep-alive
+
+
+2024-05-14 21:19:55.254569 [info]: send data to the client(127.0.0.1)
+2024-05-14 21:19:55.254606 [info]: adjust timer once
+2024-05-14 21:19:59.014161 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:19:59.014215 [info]: adjust timer once
+2024-05-14 21:19:59.014265 [info]: GET /8 HTTP/1.1
+2024-05-14 21:19:59.014299 [info]: Host: localhost:9006
+2024-05-14 21:19:59.014312 [info]: Connection: keep-alive
+2024-05-14 21:19:59.014323 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:59.014345 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:59.014358 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:59.014368 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:59.014378 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:59.014388 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:59.014398 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:59.014410 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:59.014421 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:59.014431 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:59.014444 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:59.014454 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:59.014464 [info]: Sec-Fetch-Site: none
+2024-05-14 21:19:59.014474 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:19:59.014484 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:59.014495 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:59.014505 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:19:59.014515 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:19:59.014525 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:19:59.014537 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:19:59.014547 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:59.014557 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:59.014571 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:59.014583 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:59.014594 [info]: 
+2024-05-14 21:19:59.014873 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:19:59.014905 [info]: adjust timer once
+2024-05-14 21:19:59.014914 [info]: GET /8 HTTP/1.1
+2024-05-14 21:19:59.014935 [info]: Host: localhost:9006
+2024-05-14 21:19:59.014947 [info]: Connection: keep-alive
+2024-05-14 21:19:59.014958 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:59.014968 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:59.014978 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:59.014987 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:59.014999 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:59.015010 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:59.015020 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:59.015030 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:59.015040 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:59.015050 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:59.015061 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:59.015071 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:59.015081 [info]: Sec-Fetch-Site: none
+2024-05-14 21:19:59.015093 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:19:59.015112 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:59.015123 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:59.015133 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:19:59.015143 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:19:59.015153 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:19:59.015163 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:19:59.015173 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:59.015183 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:59.015195 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:59.015205 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:59.015215 [info]: 
+2024-05-14 21:19:59.015565 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:19:59.015597 [info]: adjust timer once
+2024-05-14 21:19:59.015640 [info]: GET /8 HTTP/1.1
+2024-05-14 21:19:59.015666 [info]: Host: localhost:9006
+2024-05-14 21:19:59.015675 [info]: Connection: keep-alive
+2024-05-14 21:19:59.015683 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:59.015690 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:19:59.015698 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:59.015704 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:19:59.015711 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:59.015718 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:19:59.015725 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:59.015732 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:19:59.015740 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:59.015747 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:19:59.015754 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:59.015761 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:19:59.015768 [info]: Sec-Fetch-Site: none
+2024-05-14 21:19:59.015775 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:19:59.015782 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:59.015789 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:19:59.015796 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:19:59.015802 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:19:59.015809 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:19:59.015816 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:19:59.015823 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:59.015830 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:19:59.015837 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:59.015844 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:19:59.015851 [info]: 
+2024-05-14 21:19:59.910835 [info]: timer tick
+2024-05-14 21:20:00.070367 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:00.070535 [info]: GET /8 HTTP/1.1
+2024-05-14 21:20:00.070598 [info]: Host: localhost:9006
+2024-05-14 21:20:00.070649 [info]: Connection: keep-alive
+2024-05-14 21:20:00.070696 [info]: Cache-Control: max-age=0
+2024-05-14 21:20:00.070708 [info]: adjust timer once
+2024-05-14 21:20:00.070774 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 21:20:00.070899 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:00.070984 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:00.071048 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:00.071092 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:00.071140 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:00.071177 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:00.071238 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:00.071291 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:00.071325 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:00.071411 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:00.071444 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:00.071468 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:00.071492 [info]: Sec-Fetch-Site: none
+2024-05-14 21:20:00.071515 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:20:00.071539 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:00.071561 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:00.071585 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:20:00.071608 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:20:00.071631 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:20:00.071654 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:20:00.071678 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:00.071700 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:00.071724 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:00.071747 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:00.071771 [info]: 
+2024-05-14 21:20:00.072804 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:00.072938 [info]: adjust timer once
+2024-05-14 21:20:00.072973 [info]: GET /8 HTTP/1.1
+2024-05-14 21:20:00.073050 [info]: Host: localhost:9006
+2024-05-14 21:20:00.073083 [info]: Connection: keep-alive
+2024-05-14 21:20:00.073126 [info]: Cache-Control: max-age=0
+2024-05-14 21:20:00.073172 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 21:20:00.073215 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:00.073243 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:00.073286 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:00.073330 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:00.073369 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:00.073411 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:00.073460 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:00.073507 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:00.073547 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:00.073579 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:00.073610 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:00.073640 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:00.073671 [info]: Sec-Fetch-Site: none
+2024-05-14 21:20:00.073728 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:20:00.073760 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:00.073790 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:00.073819 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:20:00.073848 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:20:00.073876 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:20:00.073906 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:20:00.073934 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:00.073963 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:00.073992 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:00.074021 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:00.074051 [info]: 
+2024-05-14 21:20:01.966891 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:01.966940 [info]: adjust timer once
+2024-05-14 21:20:01.966955 [info]: GET /4 HTTP/1.1
+2024-05-14 21:20:01.966990 [info]: Host: localhost:9006
+2024-05-14 21:20:01.967008 [info]: Connection: keep-alive
+2024-05-14 21:20:01.967022 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:01.967034 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:01.967047 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:01.967060 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:01.967073 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:01.967084 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:01.967096 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:01.967109 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:01.967124 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:01.967136 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:01.967150 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:01.967162 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:01.967174 [info]: Sec-Fetch-Site: none
+2024-05-14 21:20:01.967187 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:20:01.967197 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:01.967209 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:01.967222 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:20:01.967233 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:20:01.967246 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:20:01.967257 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:20:01.967270 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:01.967280 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:01.967293 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:01.967306 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:01.967317 [info]: 
+2024-05-14 21:20:01.967792 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:01.967829 [info]: adjust timer once
+2024-05-14 21:20:01.967839 [info]: GET /4 HTTP/1.1
+2024-05-14 21:20:01.967862 [info]: Host: localhost:9006
+2024-05-14 21:20:01.967870 [info]: Connection: keep-alive
+2024-05-14 21:20:01.967877 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:01.967884 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:01.967891 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:01.967907 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:01.967915 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:01.967921 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:01.967928 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:01.967935 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:01.967942 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:01.967949 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:01.967956 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:01.967962 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:01.967969 [info]: Sec-Fetch-Site: none
+2024-05-14 21:20:01.967976 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:20:01.967983 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:01.967989 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:01.967996 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:20:01.968002 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:20:01.968009 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:20:01.968016 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:20:01.968022 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:01.968029 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:01.968036 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:01.968043 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:01.968049 [info]: 
+2024-05-14 21:20:03.025569 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:03.025732 [info]: adjust timer once
+2024-05-14 21:20:03.025819 [info]: GET /4 HTTP/1.1
+2024-05-14 21:20:03.025927 [info]: Host: localhost:9006
+2024-05-14 21:20:03.025992 [info]: Connection: keep-alive
+2024-05-14 21:20:03.026041 [info]: Cache-Control: max-age=0
+2024-05-14 21:20:03.026090 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 21:20:03.026120 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:03.026144 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:03.026168 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:03.026192 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:03.026216 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:03.026239 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:03.026262 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:03.026285 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:03.026309 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:03.026332 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:03.026357 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:03.026380 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:03.026404 [info]: Sec-Fetch-Site: none
+2024-05-14 21:20:03.026427 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:20:03.026450 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:03.026473 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:03.026521 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:20:03.026548 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:20:03.026571 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:20:03.026594 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:20:03.026618 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:03.026641 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:03.026665 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:03.026689 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:03.026712 [info]: 
+2024-05-14 21:20:03.027522 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:03.027641 [info]: adjust timer once
+2024-05-14 21:20:03.027700 [info]: GET /4 HTTP/1.1
+2024-05-14 21:20:03.027806 [info]: Host: localhost:9006
+2024-05-14 21:20:03.027843 [info]: Connection: keep-alive
+2024-05-14 21:20:03.027870 [info]: Cache-Control: max-age=0
+2024-05-14 21:20:03.027893 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 21:20:03.027918 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:03.027941 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:03.027965 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:03.027988 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:03.028011 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:03.028033 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:03.028056 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:03.028078 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:03.028102 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:03.028125 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:03.028149 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:03.028172 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:03.028195 [info]: Sec-Fetch-Site: none
+2024-05-14 21:20:03.028218 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:20:03.028241 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:03.028263 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:03.028286 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:20:03.028309 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:20:03.028332 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:20:03.028354 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:20:03.028377 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:03.028400 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:03.028423 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:03.028446 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:03.028469 [info]: 
+2024-05-14 21:20:03.029121 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:03.029213 [info]: adjust timer once
+2024-05-14 21:20:03.029264 [info]: GET /4 HTTP/1.1
+2024-05-14 21:20:03.029323 [info]: Host: localhost:9006
+2024-05-14 21:20:03.029350 [info]: Connection: keep-alive
+2024-05-14 21:20:03.029374 [info]: Cache-Control: max-age=0
+2024-05-14 21:20:03.029397 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 21:20:03.029421 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:03.029444 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:03.029495 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:03.029521 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:03.029544 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:03.029567 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:03.029590 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:03.029612 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:03.029649 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:03.029675 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:03.029699 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:03.029722 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:03.029745 [info]: Sec-Fetch-Site: none
+2024-05-14 21:20:03.029768 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:20:03.029791 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:03.029813 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:03.029835 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:20:03.029866 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:20:03.029890 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:20:03.029912 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:20:03.029935 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:03.029957 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:03.029981 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:03.030004 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:03.030027 [info]: 
+2024-05-14 21:20:03.031204 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:03.031299 [info]: adjust timer once
+2024-05-14 21:20:03.031381 [info]: GET /4 HTTP/1.1
+2024-05-14 21:20:03.031499 [info]: Host: localhost:9006
+2024-05-14 21:20:03.031551 [info]: Connection: keep-alive
+2024-05-14 21:20:03.031591 [info]: Cache-Control: max-age=0
+2024-05-14 21:20:03.031630 [info]: oop!unknow header: Cache-Control: max-age=0
+2024-05-14 21:20:03.031667 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:03.031704 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:03.031745 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:03.031783 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:03.031818 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:03.031853 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:03.031887 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:03.031920 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:03.031957 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:03.031991 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:03.032027 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:03.032061 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:03.032094 [info]: Sec-Fetch-Site: none
+2024-05-14 21:20:03.032128 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:20:03.032203 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:03.032244 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:03.032282 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:20:03.032320 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:20:03.032355 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:20:03.032389 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:20:03.032426 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:03.032460 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:03.032496 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:03.032532 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:03.032568 [info]: 
+2024-05-14 21:20:04.911107 [info]: timer tick
+2024-05-14 21:20:05.564623 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:05.564674 [info]: adjust timer once
+2024-05-14 21:20:05.564689 [info]: GET /5 HTTP/1.1
+2024-05-14 21:20:05.564721 [info]: Host: localhost:9006
+2024-05-14 21:20:05.564737 [info]: Connection: keep-alive
+2024-05-14 21:20:05.564752 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:05.564766 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:05.564777 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:05.564791 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:05.564804 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:05.564816 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:05.564829 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:05.564841 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:05.564854 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:05.564867 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:05.564881 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:05.564893 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:05.564907 [info]: Sec-Fetch-Site: none
+2024-05-14 21:20:05.564920 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:20:05.564932 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:05.564943 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:05.564957 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:20:05.564969 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:20:05.564980 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:20:05.564994 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:20:05.565007 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:05.565019 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:05.565031 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:05.565043 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:05.565056 [info]: 
+2024-05-14 21:20:05.565088 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 21:20:05.565102 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+
+2024-05-14 21:20:05.565116 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+Connection:keep-alive
+
+2024-05-14 21:20:05.565129 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+Connection:keep-alive
+
+
+2024-05-14 21:20:05.565216 [info]: send data to the client(127.0.0.1)
+2024-05-14 21:20:05.565248 [info]: adjust timer once
+2024-05-14 21:20:05.574052 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:05.574106 [info]: adjust timer once
+2024-05-14 21:20:05.574117 [info]: GET /xxx.jpg HTTP/1.1
+2024-05-14 21:20:05.574144 [info]: Host: localhost:9006
+2024-05-14 21:20:05.574163 [info]: Connection: keep-alive
+2024-05-14 21:20:05.574176 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:05.574184 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:05.574191 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:05.574197 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:05.574204 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:05.574211 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:05.574218 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:05.574224 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:05.574231 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-05-14 21:20:05.574237 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-05-14 21:20:05.574244 [info]: Sec-Fetch-Site: same-origin
+2024-05-14 21:20:05.574250 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-05-14 21:20:05.574256 [info]: Sec-Fetch-Mode: no-cors
+2024-05-14 21:20:05.574263 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-05-14 21:20:05.574269 [info]: Sec-Fetch-Dest: image
+2024-05-14 21:20:05.574275 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-05-14 21:20:05.574282 [info]: Referer: http://localhost:9006/5
+2024-05-14 21:20:05.574288 [info]: oop!unknow header: Referer: http://localhost:9006/5
+2024-05-14 21:20:05.574294 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:05.574301 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:05.574307 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:05.574314 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:05.574320 [info]: 
+2024-05-14 21:20:05.574344 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 21:20:05.574352 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+
+2024-05-14 21:20:05.574358 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+2024-05-14 21:20:05.574365 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+
+2024-05-14 21:20:05.581190 [info]: send data to the client(127.0.0.1)
+2024-05-14 21:20:05.581235 [info]: adjust timer once
+2024-05-14 21:20:05.582537 [info]: send data to the client(127.0.0.1)
+2024-05-14 21:20:05.582587 [info]: adjust timer once
+2024-05-14 21:20:08.299775 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:08.299824 [info]: adjust timer once
+2024-05-14 21:20:08.299837 [info]: GET /51 HTTP/1.1
+2024-05-14 21:20:08.299867 [info]: Host: localhost:9006
+2024-05-14 21:20:08.299883 [info]: Connection: keep-alive
+2024-05-14 21:20:08.299897 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:08.299909 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:08.299920 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:08.299931 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:08.299940 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:08.299948 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:08.299956 [info]: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:08.299964 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-05-14 21:20:08.299972 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:08.299980 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:08.299994 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:08.300003 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-05-14 21:20:08.300011 [info]: Sec-Fetch-Site: none
+2024-05-14 21:20:08.300019 [info]: oop!unknow header: Sec-Fetch-Site: none
+2024-05-14 21:20:08.300027 [info]: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:08.300035 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2024-05-14 21:20:08.300043 [info]: Sec-Fetch-User: ?1
+2024-05-14 21:20:08.300051 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2024-05-14 21:20:08.300059 [info]: Sec-Fetch-Dest: document
+2024-05-14 21:20:08.300067 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2024-05-14 21:20:08.300074 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:08.300082 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:08.300093 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:08.300110 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:08.300120 [info]: 
+2024-05-14 21:20:08.300152 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 21:20:08.300166 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+
+2024-05-14 21:20:08.300175 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+Connection:keep-alive
+
+2024-05-14 21:20:08.300183 [info]: request:HTTP/1.1 200 OK
+Content-Length:360
+Connection:keep-alive
+
+
+2024-05-14 21:20:08.300284 [info]: send data to the client(127.0.0.1)
+2024-05-14 21:20:08.300309 [info]: adjust timer once
+2024-05-14 21:20:08.310634 [info]: deal with the client(127.0.0.1)
+2024-05-14 21:20:08.310693 [info]: adjust timer once
+2024-05-14 21:20:08.310706 [info]: GET /xxx.jpg HTTP/1.1
+2024-05-14 21:20:08.310735 [info]: Host: localhost:9006
+2024-05-14 21:20:08.310750 [info]: Connection: keep-alive
+2024-05-14 21:20:08.310760 [info]: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:08.310770 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+2024-05-14 21:20:08.310780 [info]: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:08.310789 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2024-05-14 21:20:08.310798 [info]: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:08.310806 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-05-14 21:20:08.310814 [info]: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:08.310823 [info]: oop!unknow header: sec-ch-ua-platform: "Linux"
+2024-05-14 21:20:08.310831 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-05-14 21:20:08.310840 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-05-14 21:20:08.310849 [info]: Sec-Fetch-Site: same-origin
+2024-05-14 21:20:08.310858 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2024-05-14 21:20:08.310868 [info]: Sec-Fetch-Mode: no-cors
+2024-05-14 21:20:08.310876 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2024-05-14 21:20:08.310886 [info]: Sec-Fetch-Dest: image
+2024-05-14 21:20:08.310895 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2024-05-14 21:20:08.310904 [info]: Referer: http://localhost:9006/51
+2024-05-14 21:20:08.310912 [info]: oop!unknow header: Referer: http://localhost:9006/51
+2024-05-14 21:20:08.310921 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:08.310930 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2024-05-14 21:20:08.310955 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:08.310966 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-05-14 21:20:08.310976 [info]: 
+2024-05-14 21:20:08.311014 [info]: request:HTTP/1.1 200 OK
+
+2024-05-14 21:20:08.311026 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+
+2024-05-14 21:20:08.311035 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+2024-05-14 21:20:08.311044 [info]: request:HTTP/1.1 200 OK
+Content-Length:6007312
+Connection:keep-alive
+
+
+2024-05-14 21:20:08.312714 [info]: send data to the client(127.0.0.1)
+2024-05-14 21:20:08.312771 [info]: adjust timer once
+2024-05-14 21:20:08.315726 [info]: send data to the client(127.0.0.1)
+2024-05-14 21:20:08.315776 [info]: adjust timer once
+2024-05-14 21:20:09.911256 [info]: timer tick
+2024-05-14 21:20:14.911376 [info]: timer tick
